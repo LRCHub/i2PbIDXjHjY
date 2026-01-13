@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "シャンディガフ",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-01-13T20:52:36.859197Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャンディガフ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/01_シャンディガフ_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャンディガフ",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/02_シャンディガフ_sakanaction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャンディガフ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_シャンディガフ_サカナクション.txt"
+    }
+  ]
+}
